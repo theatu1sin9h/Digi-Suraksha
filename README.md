@@ -6,7 +6,6 @@ This internship is focused on hands-on experience across various domains in cybe
 ---
 
 ## 📁 Folder Structure
-
 Digi-Suraksha/
 ├── README.md
 ├── Week-1_MITRE-TTP-Mapping/
