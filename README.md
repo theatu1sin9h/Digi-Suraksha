@@ -44,52 +44,52 @@ Digi-Suraksha/
 │   │   └── Internship-Report_YourName.pdf
 │   ├── GitHub-Upload-Guide.md
 │   └── Peer-Review-Summary.md
-└── LICENSE
+└── LICENSE '''
 
 
 
 
-## 📌 Weekly Breakdown
+📌 Weekly Breakdown
 
-### 🔹 Week 1 - MITRE TTP Mapping
+ 🔹 Week 1 - MITRE TTP Mapping
 - Map APT Tactics, Techniques, and Procedures to the MITRE ATT&CK Framework.
 - Create and test YARA rules.
 - Export indicators to MISP and take screenshots of activities.
 
-### 🔹 Week 2 - Malware & IOC (APT28)
+ 🔹 Week 2 - Malware & IOC (APT28)
 - Study APT28 case and extract Indicators of Compromise.
 - Analyze malware reports.
 - Use MISP and HybridAnalysis for correlation.
 
-### 🔹 Week 3 - Linux Privilege Escalation
+ 🔹 Week 3 - Linux Privilege Escalation
 - Hands-on with OverTheWire: Bandit.
 - Prepare cheat sheets and screenshots for local privilege escalation methods.
 
-### 🔹 Week 4 - OSINT & Reconnaissance
+ 🔹 Week 4 - OSINT & Reconnaissance
 - Perform metadata analysis and image tracking.
 - Passive information gathering using OSINT tools.
 
-### 🔹 Week 5 - Web Exploitation
+ 🔹 Week 5 - Web Exploitation
 - Identify and report XSS, SQLi, SSRF vulnerabilities.
 - Log analysis and use PortSwigger (Burp Suite) references.
 
-### 🔹 Week 6 - Vulnerable VMs
+ 🔹 Week 6 - Vulnerable VMs
 - Capture the flag on Mr. Robot & DC-1 virtual machines.
 - Document root access walkthroughs.
 
-### 🔹 Week 7 - Log Analysis & Incident Response
+ 🔹 Week 7 - Log Analysis & Incident Response
 - Perform threat hunting using Graylog queries.
 - Reconstruct attack timeline.
 - Prepare an IR checklist.
 
-### 🔹 Week 8 - Finalization
+ 🔹 Week 8 - Finalization
 - Compile all reports.
 - Peer review and submit final internship report.
 - Guide for GitHub submission.
 
 ---
 
-## 🧠 Skills Gained
+ 🧠 Skills Gained
 
 - Threat Intelligence Mapping  
 - IOC Extraction and Malware Analysis  
@@ -101,12 +101,12 @@ Digi-Suraksha/
 
 ---
 
-## 📄 License
+ 📄 License
 
 This project is licensed under the MIT License. See [LICENSE](./LICENSE) for more details.
 
 ---
 
-## 🙋 Acknowledgments
+ 🙋 Acknowledgments
 
 Thanks to **Digi Suraksha** for providing this internship opportunity and to all mentors and contributors who helped shape this learning experience.
