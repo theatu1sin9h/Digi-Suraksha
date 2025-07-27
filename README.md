@@ -52,12 +52,6 @@ Digi-Suraksha/
 
 
 
-
-
-Each folder contains tasks, scripts, reports, and evidence screenshots relevant to that week's focus area.
-
----
-
 ## 📌 Weekly Breakdown
 
 ### 🔹 Week 1 - MITRE TTP Mapping
